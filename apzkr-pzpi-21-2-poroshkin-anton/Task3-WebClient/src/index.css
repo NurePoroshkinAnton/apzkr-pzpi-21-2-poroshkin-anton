@@ -1,0 +1,17 @@
+html {
+    height: 100vh;
+    overflow-y: auto !important;
+}
+
+body {
+    height: 100%;
+}
+
+#root {
+    height: 100%;
+}
+
+* {
+    box-sizing: border-box;
+}
+

@@ -1,0 +1,12 @@
+.room-card {
+    min-width: 300px;
+    display: flex;
+    flex-direction: column;
+
+    :global {
+        .ant-card-body {
+            flex-grow: 1;
+        }
+    }
+}
+

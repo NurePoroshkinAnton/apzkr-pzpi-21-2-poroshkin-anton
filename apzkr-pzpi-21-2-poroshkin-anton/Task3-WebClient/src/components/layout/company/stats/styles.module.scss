@@ -1,0 +1,49 @@
+.stats-page {
+    font-size: 18px;
+}
+
+.chart-section {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-bottom: 32px;
+}
+
+.devices-text {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.device-text-item {
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    align-items: center;
+}
+
+.devices-chart {
+    display: flex;
+    justify-content: center;
+    height: 600px;
+}
+
+.subtitle {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.manufacturers-section {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+
+.worst-manufacturers-list {
+    max-width: 900px;
+    margin-inline: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+

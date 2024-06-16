@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Climatly</string>
+    <string name="welcome">Welcome to Climatly!</string>
+    <string name="signin_with_google">Sign in with Google</string>
+    <string name="climate_profiles">Climate profiles</string>
+    <string name="temperature">Temperature</string>
+    <string name="humidity">Humidity</string>
+    <string name="status">Status</string>
+    <string name="active">Active</string>
+    <string name="inactive">Inactive</string>
+    <string name="activate">Activate</string>
+    <string name="deactivate">Deactivate</string>
+    <string name="create_climate_profile">Create climate profile</string>
+    <string name="update_climate_profile">Update climate profile</string>
+    <string name="name">Name</string>
+    <string name="cancel">Cancel</string>
+    <string name="create">Create</string>
+    <string name="update">Update</string>
+    <string name="english">English</string>
+    <string name="ukrainian">Ukrainian</string>
+    <string name="select_language">Select language</string>
+    <string name="signout">Sign out</string>
+</resources>
